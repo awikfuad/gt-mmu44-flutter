@@ -1,0 +1,6 @@
+# Build web statis untuk GitHub Pages.
+# Yang penting: .gitignore ini sendiri tetap ikut commit.
+*.pack
+*.idx
+.DS_Store
+Thumbs.db

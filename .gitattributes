@@ -1,0 +1,4 @@
+# Build output dari Windows/editor lain harus keluar apa adanya.
+# Tanpa ini Git mengubah LF jadi CRLF di main.dart.js dan JSON,
+# yang bisa merusak file saat di-checkout.
+* -text
